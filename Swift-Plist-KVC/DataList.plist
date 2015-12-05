@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>大家好我叫小明</string>
+		<key>name</key>
+		<string>小明</string>
+		<key>age</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>大家好我叫小李</string>
+		<key>name</key>
+		<string>小李</string>
+		<key>age</key>
+		<string>15</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>大家好我叫小胡</string>
+		<key>name</key>
+		<string>小胡</string>
+		<key>age</key>
+		<string>18</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>大家好我叫小羊</string>
+		<key>name</key>
+		<string>小羊</string>
+		<key>age</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>大家好我叫小孙</string>
+		<key>name</key>
+		<string>小孙</string>
+		<key>age</key>
+		<string>18</string>
+	</dict>
+</array>
+</plist>
